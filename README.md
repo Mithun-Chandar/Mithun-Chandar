@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Mithun-Chandar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Mithun-Chandar/Mithun-Chandar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# A Big Hello to everyone reading this.
+My name is **Mithun** from India, specifically from a city called Chennai in souther India. 
+I'm currently a 3rd year computer science student at Vistula University, Warsaw, Poland.
