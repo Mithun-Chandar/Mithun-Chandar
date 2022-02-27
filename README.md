@@ -15,4 +15,11 @@ Felt python is quite easy to code but as it went on the indents started to piss 
 
 Master the basics of Data Structures and Algorithms and move on to cloud computing.
 
+
+
+
+
+
+
+
 If you read the entire documentation ping me up :shipit:
