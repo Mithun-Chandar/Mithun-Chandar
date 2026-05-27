@@ -1,19 +1,63 @@
-# A Big Hello to everyone reading this.
-**Here is something personal about me:**
+# Hey there 👋
 
-My name is **Mithun** from India, specifically from a city called Chennai in souther India. 
-I'm currently a **3rd year Computer Science** student at **Vistula University**, Warsaw, Poland.
-Its been already been a year since I arrived to warsaw. This alienated city is no more alien for me, I'm getting accustomed to Warsaw day by day.
-Starting from the friends I gathered here to the ones who I call my Warsaw family. And sadly none of them are from my university since its been closed for all the time I've been here.
+I'm **Mithun**, originally from **Chennai, India 🇮🇳**, currently living in **Warsaw, Poland 🇵🇱**, where I'm pursuing my Masters in Cloud Computing at **Warsaw School Of Computer Sciences**.
 
-**Not so personal Stuffs:**
+Moving to a completely different country at a young age was honestly overwhelming at first, but over time Warsaw slowly started feeling less alien and more like home. Somewhere between late-night debugging sessions, random engineering rabbit holes, and the people I met here, this city became part of my story.
 
-The basics of C++ which I learnt during my highschool laid the foundation to make me persue a career in Computer Science and started to learn more concepts on my own.
-Felt python is quite easy to code but as it went on the indents started to piss me off till now. But still  I quite enjoy to code particularly if its something challenging and complex.
+---
 
-**Current Goal:**
+# What I Do
 
-Master the basics of Data Structures and Algorithms and move on to cloud computing.
+I'm a full stack engineer interested in:
+
+* realtime systems
+* cloud & platform engineering
+* developer tooling
+* distributed application flows
+* observability and system reliability
+* scalable multi-tenant architectures
+
+Over the last few years, I’ve been building collaborative and realtime applications where synchronization, architectural consistency, and state management become genuinely interesting engineering problems.
+
+I enjoy building systems that are:
+
+* reliable
+* observable
+* scalable
+* and easier to reason about as they grow
+
+---
+
+# Featured Work
+
+## RiverGen
+
+An opinionated realtime architecture framework focused on enforcing deterministic mutation-to-cache flows for collaborative applications.
+
+## Witness
+
+A verification layer designed to validate payload continuity across realtime event pipelines and cache projections.
+
+---
+
+# Tech Stack
+
+`TypeScript` • `Node.js` • `Next.js` • `React` • `PostgreSQL` • `Prisma` • `WebSockets` • `Docker`
+
+---
+
+# Currently Exploring
+
+* Kubernetes
+* Cloud Infrastructure
+* Distributed Systems
+* Platform Engineering
+* Infrastructure Reliability
+* Event-Driven Architectures
+
+---
+
+> “I enjoy solving engineering problems where systems slowly become harder to reason about as they scale.”
 
 
 
@@ -22,4 +66,4 @@ Master the basics of Data Structures and Algorithms and move on to cloud computi
 
 
 
-If you read the entire documentation ping me up :shipit:
+
