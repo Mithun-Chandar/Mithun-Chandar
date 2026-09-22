@@ -58,6 +58,7 @@ A verification layer designed to validate payload continuity across realtime eve
 ---
 
 > “I enjoy solving engineering problems where systems slowly become harder to reason about as they scale.”
+> 22/09/2026
 
 
 
